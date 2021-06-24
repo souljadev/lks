@@ -26,8 +26,6 @@
 
 **ALL** of this combined is the tape
 
----
-
 ## Favorite Tool?
 
 Jigsaw
