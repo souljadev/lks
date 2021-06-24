@@ -2,9 +2,14 @@
 - [What do you look for when you trade?](#what-do-you-look-for-when-you-trade)
 - [What else do you look at?](#what-else-do-you-look-at)
 - [How do I learn about Orderflow?](#how-do-i-learn-about-orderflow)
+- [How do you look for ideas?](#how-do-you-look-for-ideas)
 - [How long have you been trading?](#how-long-have-you-been-trading)
 - [How big is your portfolio?](#how-big-is-your-portfolio)
+- [How to know when to trim for profits?](#how-to-know-when-to-trim-for-profits)
 - [Favorite Tool?](#favorite-tool)
+- [Favorite Catch Phrase?](#favorite-catch-phrase)
+- [Trading Tip?](#trading-tip)
+- [Favorite Furu?](#favorite-furu)
 
 ---
 [Tips](#tips)
@@ -37,13 +42,21 @@ how far has price retraced from balance?
 - Is price looking for discovery?
 - Is it overextended?
 
+## How do you look for ideas?
+
+Scanner that scans for movement in market based on relative volume and upticks in short time frame
+
+When I’m looking at those, that’s my “shopping” lens when I start browsing for setups
+
+I always monitor tape on ES, NQ, SPY, TSLA, the broader market basically to gauge a bullish or bearish bias
+
 ## How do I learn about Orderflow?
 
 Axios and Jigsaw Trading YT videos
 
 ## Favorite Catch Phrase?
 
-Stunningly Simple
+`Stunningly Simple`
 
 ## How long have you been trading?
 
@@ -53,7 +66,7 @@ Stunningly Simple
 
 It’s big enough, don’t worry about it
 
-## How to know when to trim for profits vs add to runners?
+## How to know when to trim for profits?
 
 - experience
 
@@ -65,6 +78,15 @@ Everyone trades differently, you can also just buy and hold positions
 that works \
 Buy and hold winners and add on dips \
 A strong stock will show you it’s strong
+
+## Trading Tip?
+
+On my active account, I always close 90%+ in cash so I have 0 emotional attachment or bias towards a position and strictly trade what the session offers
+
+## Favorite Furu?
+
+[Tic Toc Tick](https://twitter.com/TicTocTick)
+
 
 ## Favorite Tool?
 
@@ -86,11 +108,11 @@ you want to watch what price is doing relative to these orders whether price bid
 if there is a confluence of price action, price, and tape = good
 ```
 
-```
+```markdown
 (2) pace of tape shows interest or lack of interest from market participants, filter according to average sized lots being traded to reduce as much noise as possible
 ```
  
-```
+```markdown
 (3) always watch price in relation to what is being printed
 ```
 
@@ -170,10 +192,95 @@ figure out who's in control and flow w/ them
 
 ---
 
+```If nothing to trade, there’s nothing to trade```
+
+---
+TAPE
+
+- Tape comes first, it precedes candlesticks and quantifies what the hell is going on in your candles
+
+- Market profile for visual representation of where you are on the treasure map + to see pivots
+
+- Volume profile to see gaps or supply demand zones
+
+- Orderflow (tape) to see who’s in control and who’s buying or selling
+
+- DOM (depth of market) see where buyers and sellers are sitting at on the market
+
+- Volume to gauge interest
+
+- Indices and levels of other stocks for leading indicators (they have a relationship with each other)
+
+- Price action IS important as well
+
+- Velocity of tape to gauge changes volume
+
+- Attachments area
+
+- Preview YouTube video 
+    - One Tape Reading Exit Strategy Every Trader Must Add To Their Trading
+
+---
+
+(1) what does the chart look like, daily, intra-day, r/r ,what time of day
+
+(2) what is the r/r above and below, how is the tape, is there intra-day accumulation im seeing (that's always good)
+
+(3) how are current market conditions, are they favorable towards longs or bears or balance
+
+(4) time, longer times likely lead to more OTM like PLBY for example, i saw 50 on it's head when it bidded back near to the 40s now 48
+
+(5) target, what is my upper, lower, limit
+
+(6) premiums, are they inflated, how is IV, what am i paying for, what time of day am i paying for, am i paying for juiced IV
+
+(7) spreads, are they tight? if not, then the chart + orderflow must outweigh the spreads because I've had positions go from wide spreads to tight spreads due to increased demand
+
+(8) what is the OI and Volume and IV
+
+(9) tape, is it clean, is it choppy, is it weird, how does tape look, is it more buys, hidden sellers?
+
+---
+
+(1) overcrowded
+
+(2) theta burn
+
+(3) not a good chart for options
+
+From that perspective, I do not trade the options
+
+Again, I trade strictly on the chart
+
+---
+
+1. Point of Control (PoC): It refers to the area in the chart with the most traded volume activity. This is by far the most relevant area you want to monitor as it can help to define the placement of your stops or the areas in the chart where you might find the most pristine entry levels. The highest concentrated area of volume for a particular period of time we will call it PoC or Point of Control and you will be surprised how many times it acts as a wall on a retest. Traders tend to factor this in as an area of support or resistance.
+
+2. High Volume Nodes (HVN): Sub-sequences in the chart with high volume activity. While not as powerful nor symbolic as the PoC, the HVN is also a powerful area as it also represents increased trading activity.
+
+3. Value Area (VA): The range of price levels in which a specified percentage of all volume was traded. By default, the industry standards tends to be 70%. Once I explain the principle of the distribution curve below, it will become much clearer why the default number is the 70%, bear with me.
+---
+
 ```"As the volume keeps increasing by N = number of times a new order comes in (times someone — human or algos— take a trade), the more pronounced the shape becomes, with the creation of another universal truth in statistics, that is, standard deviations. This states that over 68% of the volume will be accumulated under 1 standard deviation (in blue), while 95% of the volume will come within 2 standard deviations (in red). Now you will understand why the standard market value of a volume profile tends to be 70%."```
 
-----
+---
+
+Option Tips
+
+No option sweeps, just trade ideas
+
+Option purchases are always typically either ATM or ITM to have a leveraged directional bias for scalping
+
+When I do OTM, I believe there’s the statistical side is w/ me and I’m willing to take the risk of it running into ITM, but always buy w/ time
+
+---
+
+`Pure TA is speculative imo, used for exit and entries`
+
+---
+
 ## Ending Note
+
 \
 If you follow my works, I am here to guide the decision making process
 \
@@ -218,141 +325,4 @@ https://www.ranchodinero.com/volume-tpo-essentials/
 \
 One Tape Reading Exit Strategy Every Trader Must Add To Their Trading \
 https://www.youtube.com/watch?v=lC64p-GgqPs
-
-
-
-
-
- 
-
- 
-
-
- 
-
-
-
- 
-
-1. Point of Control (PoC): It refers to the area in the chart with the most traded volume activity. This is by far the most relevant area you want to monitor as it can help to define the placement of your stops or the areas in the chart where you might find the most pristine entry levels. The highest concentrated area of volume for a particular period of time we will call it PoC or Point of Control and you will be surprised how many times it acts as a wall on a retest. Traders tend to factor this in as an area of support or resistance.
-
-2. High Volume Nodes (HVN): Sub-sequences in the chart with high volume activity. While not as powerful nor symbolic as the PoC, the HVN is also a powerful area as it also represents increased trading activity.
-
-3. Value Area (VA): The range of price levels in which a specified percentage of all volume was traded. By default, the industry standards tends to be 70%. Once I explain the principle of the distribution curve below, it will become much clearer why the default number is the 70%, bear with me.
-
- 
-
-No option sweeps, just trade ideas
-
- 
-
-Scanner that scans for movement in market based on relative volume and upticks in short time frame
-
- 
-
-When I’m looking at those, that’s my “shopping” lens when I start browsing for setups
-
- 
-
-I always monitor tape on ES, NQ, SPY, TSLA, the broader market basically to gauge a bullish or bearish bias
-
- 
-
-If nothing to trade, there’s nothing to trade
-
- 
-
-On my active account, I always close 90%+ in cash so I have 0 emotional attachment or bias towards a position and strictly trade what the session offers
-
- 
-
- 
-
-(1) overcrowded
-
-(2) theta burn
-
-(3) not a good chart for options
-
- 
-
-From that perspective, I do not trade the options
-
- 
-
-Again, I trade strictly on the chart
-
- 
-
-Option purchases are always typically either ATM or ITM to have a leveraged directional bias for scalping
-
- 
-
-When I do OTM, I believe there’s the statistical side is w/ me and I’m willing to take the risk of it running into ITM, but always buy w/ time
-
- 
-
-(1) what does the chart look like, daily, intraday, r/r ,what time of day
-
-(2) what is the r/r above and below, how is the tape, is there intraday accumulation im seeing (that's always good)
-
-(3) how are current market conditions, are they favorable towards longs or bears or balance
-
-(4) time, longer times likely lead to more OTM like PLBY for exmaple, i saw 50 on it's head when it bidded back near to the 40s now 48
-
-(5) target, what is my upper, lower, limit
-
-(6) premiums, are they inflated, how is IV, what am i paying for, what time of day am i paying for, am i paying for juiced IV
-
-(7) spreads, are they tight? if not, then the chart + orderflow must outweigh the spreads because io've had positions go from wide spreads to tight spreads due to increased demand
-
-(8) what is the OI and Volume and IV
-
-(9) tape, is it clean, is it chopy, is it weird, how does tape look, is it more buys, hidden sellers?
-
- 
-
- 
-
-Pure TA is speculative imo, used for exit and entries
-
- 
-
-Tape comes first, it precedes candlesticks and quantifies what the hell is going on in your candles
-
- 
-
-Market profile for visual representation of where you are on the treasure map + to see pivots
-
- 
-
-Volume profile to see gaps or supply demand zones
-
- 
-
-Orderflow (tape) to see who’s in control and who’s buying or selling
-
- 
-
-DOM (depth of market) see where buyers and sellers are sitting at on the market
-
- 
-
-Volume to gauge interest
-
- 
-
-Indices and levels of other stocks for leading indicators (they have a relationship with each other)
-
- 
-
-Price action IS important as well
-
- 
-
-Velocity of tape to gauge changes volume
-
-Attachments area
-Preview YouTube video One Tape Reading Exit Strategy Every Trader Must Add To Their Trading
-
 
