@@ -13,6 +13,7 @@
 
 ---
 
+
 ## What do you look for when you trade
 
 - time and sales
@@ -62,110 +63,60 @@ It’s big enough, don’t worry about it
 
 Everyone trades differently, you can also just buy and hold positions
 that works \
-\
 Buy and hold winners and add on dips \
-\
 A strong stock will show you it’s strong
 
 ## Favorite Tool?
 
 Jigsaw
 
-
-## Ending Note
-\
-If you follow my works, I am here to guide the decision making process
-\
-\
-Must see `growth` in `yourself`, else you will be left behind
-\
-\
-The resources are **here**
-\
-\
-**`Put in the time`**
-\
-\
-Lose money, `experiment`
-\
-\
-You ain’t gonna learn `jackshit` making money
-\
-\
-Only those who `suffered` rock bottom and came back understand
-\
-\
-`Few know`
-
- 
-
-
-
-
-
-
- 
 ---
 ---
-
-## Resources
-
-### Twitter
-
-https://twitter.com/chikatrades
-
-\
-Volume and TPO Essentials
-\
-https://www.ranchodinero.com/volume-tpo-essentials/
-\
-\
-One Tape Reading Exit Strategy Every Trader Must Add To Their Trading \
-https://www.youtube.com/watch?v=lC64p-GgqPs
+## Tips
 
 
+---
+ORDERFLOW
 
-(1) having a large green print on tape does NOT mean it was a bid on ToS at least, green prints occur when the order comes in at the same time as when price moves to the upside and vice versa w/ red prints
+```
+(1) Having a large green print on tape does NOT mean it was a bid on ToS at least, green prints occur when the order comes in at the same time as when price moves to the upside and vice versa w/ red prints
 
-     you want to watch what price is doing relative to these orders whether price bids above or below that print in the given time frame
+you want to watch what price is doing relative to these orders whether price bids above or below that print in the given time frame
 
-    if there is a confluence of price action, price, and tape = good
+if there is a confluence of price action, price, and tape = good
+```
 
- 
-
+```
 (2) pace of tape shows interest or lack of interest from market participants, filter according to average sized lots being traded to reduce as much noise as possible
-
+```
  
-
+```
 (3) always watch price in relation to what is being printed
+```
 
- 
-
+```
 (4) large prints AH, i dont really look at these tbh, dont really find use in the large orders AH, only thing that really matters is during RTH (regular trading hours)
-
+```
  
-
+```
 (5) large prints but away from b/a, likely delayed dark pool prints, again i dont really look at this
-
+```
  
-
+```
 (6) how clean or thick the tape is, clean would be heavy selling or heavy buying w/ clear imbalance of the buyer or seller side w/ respect to price action and price
 
-       thickness comes when you have a tape full of heavy sellers and heavy buyers or buyers trying to push price up but met w/ a good amount of selling as well
+Thickness comes when you have a tape full of heavy sellers and heavy buyers or buyers trying to push price up but met w/ a good amount of selling as well
+```
 
- 
-
+```
 (7) at the end of the day, pace of tape, price action, price, sizable orders and volume is what is really what you're looking at to make trading decisions
 
-      figure out who's in control and flow w/ them
+figure out who's in control and flow w/ them
+```
 
- 
+---
 
- 
-
-orderflow footprint keywords and concepts to understand (i.e look up)
-
- 
+**Orderflow** footprint keywords and concepts to understand (i.e look up)
 
 - Reversal patterns
 
@@ -217,9 +168,69 @@ orderflow footprint keywords and concepts to understand (i.e look up)
 
     - shape of profile
 
+---
+
+```"As the volume keeps increasing by N = number of times a new order comes in (times someone — human or algos— take a trade), the more pronounced the shape becomes, with the creation of another universal truth in statistics, that is, standard deviations. This states that over 68% of the volume will be accumulated under 1 standard deviation (in blue), while 95% of the volume will come within 2 standard deviations (in red). Now you will understand why the standard market value of a volume profile tends to be 70%."```
+
+----
+## Ending Note
+\
+If you follow my works, I am here to guide the decision making process
+\
+\
+Must see `growth` in `yourself`, else you will be left behind
+\
+\
+The resources are **here**
+\
+\
+**`Put in the time`**
+\
+\
+Lose money, `experiment`
+\
+\
+You ain’t gonna learn `jackshit` making money
+\
+\
+Only those who `suffered` rock bottom and came back understand
+\
+\
+`Few know`
+
+
+
+ 
+---
+---
+
+## Resources
+
+### Twitter
+
+https://twitter.com/chikatrades
+
+\
+Volume and TPO Essentials
+\
+https://www.ranchodinero.com/volume-tpo-essentials/
+\
+\
+One Tape Reading Exit Strategy Every Trader Must Add To Their Trading \
+https://www.youtube.com/watch?v=lC64p-GgqPs
+
+
+
+
+
  
 
-"As the volume keeps increasing by N = number of times a new order comes in (times someone — human or algos— take a trade), the more pronounced the shape becomes, with the creation of another universal truth in statistics, that is, standard deviations. This states that over 68% of the volume will be accumulated under 1 standard deviation (in blue), while 95% of the volume will come within 2 standard deviations (in red). Now you will understand why the standard market value of a volume profile tends to be 70%."
+ 
+
+
+ 
+
+
 
  
 
