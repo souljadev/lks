@@ -78,13 +78,13 @@ Jigsaw
 ---
 ORDERFLOW
 
-```
-(1) Having a large green print on tape does NOT mean it was a bid on ToS at least, green prints occur when the order comes in at the same time as when price moves to the upside and vice versa w/ red prints
+
+>(1) Having a large green print on tape does NOT mean it was a bid on ToS at least, green prints occur when the order comes in at the same time as when price moves to the upside and vice versa w/ red prints
 
 you want to watch what price is doing relative to these orders whether price bids above or below that print in the given time frame
 
 if there is a confluence of price action, price, and tape = good
-```
+
 
 ```
 (2) pace of tape shows interest or lack of interest from market participants, filter according to average sized lots being traded to reduce as much noise as possible
