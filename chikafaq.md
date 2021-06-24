@@ -26,12 +26,6 @@
 
 **ALL** of this combined is the tape
 
-## Favorite Tool?
-
-Jigsaw
-
----
-
 ## What else do you look at?
 
 (ask yourself these questions)
@@ -42,31 +36,21 @@ how far has price retraced from balance?
 - Is price looking for discovery?
 - Is it overextended?
 
----
-
 ## How do I learn about Orderflow?
 
 Axios and Jigsaw Trading YT videos
-
----
 
 ## Favorite Catch Phrase?
 
 Stunningly Simple
 
----
-
 ## How long have you been trading?
 
 1.5 years (as of june/2021)
 
----
-
 ## How big is your portfolio?
 
 It’s big enough, don’t worry about it
-
----
 
 ## How to know when to trim for profits vs add to runners?
 
@@ -81,9 +65,12 @@ that works \
 \
 Buy and hold winners and add on dips \
 \
-A strong stock will show you it’s strong 
+A strong stock will show you it’s strong
 
----
+## Favorite Tool?
+
+Jigsaw
+
 
 ## Ending Note
 \
